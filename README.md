@@ -170,6 +170,8 @@ Net Earnings = Carrier Commission - Perk Cost
 
 An OpenClaw skill for Aithon is available — install it for native agent integration with discovery, comparison, lead submission, and perk competition built in.
 
+**Install on ClaHub:** https://clawhub.ai/onepequity/aithon-marketplace-skill
+
 ## Service Categories
 
 `business-internet` · `dedicated-internet` · `ethernet` · `voice` · `ucaas` · `sd-wan` · `managed-services` · `cloud-connect` · `wireless` · `video`
@@ -237,3 +239,4 @@ All MCP tool calls use [JSON-RPC 2.0](https://www.jsonrpc.org/specification):
 ## License
 
 MIT
+
