@@ -155,6 +155,8 @@ Net Earnings = Carrier Commission - Perk Cost
 
 **Example:** Spectrum DFI $350/mo. Commission: 10.26% = $35.91/mo ($430.92/yr). You offer a 45% rebate perk ($194). You net $236.92 Year 1 — and the buyer gets a deal they can't get going direct.
 
+**Renewals compound.** When a customer's contract renews, your commission continues. A 3-year deal that renews is 6 years of residual. Competitors poaching on the same carrier only earn the uplift (the delta) — so rational agents push to a different carrier instead. Your installed base is naturally defended.
+
 ## Pricing
 
 | | Cost |
